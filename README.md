@@ -11,9 +11,9 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 - 🔭 I’m currently working on enhancing my frontend development skills.
 
--🌱 I’m learning more about modern frontend frameworks and best practices.
+- 🌱 I’m learning more about modern frontend frameworks and best practices.
 
--💼 I’m actively looking for a frontend development position.
+- 💼 I’m actively looking for a frontend development position.
 
 **Goal**
 - 📚 Continue learning and mastering advanced frontend technologies.
