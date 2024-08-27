@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanh</h1>
-<h3 align="center">Frontend Developer | 🎓 Last-year Student at Ton Duc Thang University</h3>
+<h3 align="center">Frontend Developer | 🎓 A Passionate web developer from VietNam</h3>
 
 A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
