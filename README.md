@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Thanh</h1>
-<h3 align="center">I'm a Frontend Developer </h3>
 
 <div align="center">
   
   <img align="center"  alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </div>
 
+<div align = "center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Thanh;I'm+a+Web+Developer" alt="Typing SVG" /></a>
+</div>
 
 <h3>About Me!</h3>
 
